@@ -23,7 +23,7 @@ namespace DesafioFundamentos.Models
         public void RemoverVeiculo()
         {
             Console.WriteLine("Digite a placa do veículo para remover:");
-            string placa = Console.ReadLine();                                                                               // *Adicionar na lista de veiculos
+            string placa = Console.ReadLine();                                                                            
 
 
             // Verifica se o veículo existe
